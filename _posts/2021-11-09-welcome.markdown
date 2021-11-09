@@ -1,0 +1,18 @@
+---
+layout: post
+title:  "Welcome"
+date:   2021-11-09 17:05:50 -0400
+categories: update
+usemathjax: true
+---
+
+On this site I will post on various topics and opinions, it is possible that after a while I will come back here and realize that my opinions and beliefs have changed (as natural as life). So don't take something too seriously if it bothers you and move on.
+
+At the moment I am interested in learning some algebra and math once and for all, so I have installed MathJax support in Jekyll.
+
+$$E=mc^2$$
+
+I will update as I solve _basic_ problems and thus I will learn to write in latex at the same time that I learn something new.
+
+By the way, my native language is not English, so I apologize in advance for any mistakes made.
+
